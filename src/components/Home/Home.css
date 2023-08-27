@@ -1,0 +1,12 @@
+.table {
+    margin-top: 55px !important;
+}
+
+.button-cotainer {
+    display: flex;
+    justify-content: center;
+}
+
+.button-cotainer button {
+    margin: 10px;
+}
